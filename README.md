@@ -1,2 +1,3 @@
-# data_analysis_course
-Projects solved while passing a Data Analysis course at Yandex.Practicum.
+# Data analyst
+## Description:
+The repository contains projects of the Data Analyst course (Yandex.Practicum).
